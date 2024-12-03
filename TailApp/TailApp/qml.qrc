@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/main.qml</file>
+        <file>UI/Screen/SplashScreen.qml</file>
+        <file>UI/Defines/HeightScheme.qml</file>
+    </qresource>
+</RCC>
