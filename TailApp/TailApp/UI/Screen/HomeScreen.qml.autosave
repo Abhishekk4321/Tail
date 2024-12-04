@@ -1,0 +1,16 @@
+import QtQuick 2.0
+import QtQuick.Controls 2.0
+
+Item {
+
+    Rectangle
+    {
+        height: 1024
+        width: 900
+        
+        
+
+
+    }
+
+}
