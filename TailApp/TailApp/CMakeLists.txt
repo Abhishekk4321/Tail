@@ -26,4 +26,6 @@ target_link_libraries(Tail
     Qt${QT_VERSION}::Quick
     Qt${QT_VERSION}::Qml
     Qt${QT_VERSION}::Core
+    TailComponents
     )
+

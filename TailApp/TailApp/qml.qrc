@@ -4,5 +4,7 @@
         <file>UI/Screen/SplashScreen.qml</file>
         <file>UI/Defines/HeightScheme.qml</file>
         <file>UI/Screen/HomeScreen.qml</file>
+        <file>UI/Images/password.svg</file>
+        <file>UI/Images/user.svg</file>
     </qresource>
 </RCC>

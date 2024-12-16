@@ -7,12 +7,12 @@ ApplicationWindow
    height: HeightScheme.height
    width: HeightScheme.width
    visible: true
-
+  
    Loader
    {
        id: loader
   anchors.fill: parent
-       source: "qrc:/UI/Screen/SplashScreen.qml"
+       source: "qrc:/UI/Screen/HomeScreen.qml"
    }
 
    Timer
